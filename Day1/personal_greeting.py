@@ -1,0 +1,5 @@
+name=input()
+age=int(input())
+print(f"Hello {name}!")
+print(f"You are {age} years old.")
+print("Welcome to 10 days coding challenge.")
